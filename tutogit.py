@@ -1,1 +1,1 @@
-sdasfa
+print("hello world")
